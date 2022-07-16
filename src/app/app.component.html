@@ -1,0 +1,32 @@
+<div class="my-3">
+  <br>
+  <h5>Search Username and Email</h5>
+  <!-- <form #searchForm="ngForm"> -->
+  <div class="my-5">
+    <input type="text" required name="searchTerm" autocomplete="off" [(ngModel)] = "searchTerm" class="form-control form-control-lg" (change)="onChange()">
+  </div>
+<!-- </form> -->
+  <hr>
+  <div class="results">
+      <h5>Search Results</h5>
+      </div>
+  <hr>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Username</th>
+        <th scope="col">Email</th>
+        <th scope="col">Mobile No.</th>
+        <th scope="col">Gender</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of data">
+        <th scope="row">{{item.username}}</th>
+        <td>{{item.email}}</td>
+        <td>{{item.mobileno}}</td>
+        <td>{{item.gender}}</td>
+      </tr>
+      </tbody>
+  </table>
+</div>

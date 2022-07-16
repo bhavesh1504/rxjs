@@ -1,0 +1,132 @@
+{
+  "posts": [
+    
+  ],
+  "comments": [
+    {
+      
+        "username": "suraj",
+        "email": "suraj@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "jay",
+        "email": "jay@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "bhavesh",
+        "email": "bhavesh@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "vinit",
+        "email": "vinit@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "jatin",
+        "email": "jatin@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "prachi",
+        "email": "prachi@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "nikki",
+        "email": "nikki@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "piyu",
+        "email": "piyu@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "deepak",
+        "email": "deepak@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "dipesh",
+        "email": "dipesh@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "kunal",
+        "email": "kunal@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "komal",
+        "email": "komal@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "rahul",
+        "email": "rahul@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "akash",
+        "email": "akash@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "neha",
+        "email": "neha@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "supriya",
+        "email": "supriya@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "rutuja",
+        "email": "rutuja@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "female"
+      },
+      {
+        "username": "mihir",
+        "email": "mihir@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "shani",
+        "email": "shani@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      },
+      {
+        "username": "omkar",
+        "email": "omkar@gmail.com",
+        "mobileno": "1234567890",
+        "gender": "male"
+      }
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
